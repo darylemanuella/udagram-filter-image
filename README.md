@@ -1,5 +1,5 @@
-
-
+Une URL de point de terminaison pour un déploiement elastic beanstalk en fonction (EB_URL):
+http://udagramimage-dev2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.ibb.co/0QWB1f6/20e0054c12f8ec7bf8fa72b715d85378.png
 
 # Udagram Image Filtering Microservice
 
