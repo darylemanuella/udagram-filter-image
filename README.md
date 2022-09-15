@@ -1,3 +1,6 @@
+
+
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
@@ -46,5 +49,9 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
-<!-- npm run clean && tsc && xcopy package.json www\\package.json && mkdir www\\tmp\\ && cd www && tar -cf Archive.zip . && cd ..
- -->
+
+Une URL de point de terminaison pour un déploiement elastic beanstalk en fonction (EB_URL):
+
+http://udagramimage-dev2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.ibb.co/0QWB1f6/20e0054c12f8ec7bf8fa72b715d85378.png
+
+
